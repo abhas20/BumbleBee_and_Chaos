@@ -1,0 +1,15 @@
+#virtual environment
+venv/
+.venv/
+
+# Environment variables
+.env
+
+# Python
+*.pyc
+# Jupyter Notebook
+.ipynb_checkpoints
+
+#npz,zip files
+*.npz
+*.zip
